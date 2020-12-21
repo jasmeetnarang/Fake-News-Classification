@@ -18,7 +18,7 @@ The objective of the project is to find the test labels, map them with the test 
 Following is the process to run the source code:
 
     #To simply run the file
-    python fake_news_classification.py
+    python Fake_News_Classification.py
     
     
 ##### Contributors:
