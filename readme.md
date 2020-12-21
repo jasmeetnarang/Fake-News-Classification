@@ -2,21 +2,12 @@
 
 
 In this project we are given two csv file, train.csv and test.csv with the following attributes:
+	
 	▪ Id: the id of each news pair
-	
-	
 	▪ tid1: the id of fake news tittle 1
-	
-	
 	▪ tid2: the id of news title 2
-	
-	
 	▪ title1_en: the fake news title 1 in English
-	
-	
 	▪ title2_en: the fake news title 2 in English
-	
-	
 	▪ label: indicates the relation between the news pair: agree/disagree/unrelated
 	
 	
