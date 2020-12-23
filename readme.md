@@ -11,7 +11,7 @@ In this project we are given two csv file, train.csv and test.csv with the follo
 	▪ label: indicates the relation between the news pair: agree/disagree/unrelated
 	
 	
-Additionally, the task is defined as follows, Given the title of a fake news article A and the title of a coming news article B, participants are asked to classify B into one of the three categories
+Additionally, the task is defined as follows, Given the title of a fake news article A and the title of a coming news article B, classify B into one of the three categories
 The objective of the project is to find the test labels, map them with the test ids and save them in a csv file. Further, the results for validation are stored as well.
 
 
